@@ -1,0 +1,12 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Abril Fatface', cursive;
+    cursor: pointer;
+}
+
+.lorem-ipsum--hidden {
+    display: none;
+}
